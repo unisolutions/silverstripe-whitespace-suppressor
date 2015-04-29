@@ -1,0 +1,17 @@
+{
+	"name": "unisolutions/silverstripe-whitespace-suppressor",
+	"type": "silverstripe-module",
+	"description": "Suppresses whitespaces in output HTML for Silverstripe.",
+	"keywords": ["silverstripe", "whitespace", "suppress", "remove", "trim"],
+	"authors": [{
+		"name": "Elvinas Liutkevičius",
+		"email": "elvinas@unisolutions.eu"
+	}],
+	"require": {
+		"silverstripe/framework": "3.*"
+	},
+	"minimum-stability": "dev",
+	"extra": {
+		"installer-name": "whitespace-suppressor"
+	}
+}
